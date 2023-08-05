@@ -23,11 +23,11 @@
 ## Портфолио (тестовая документация).
 [Проект Skyeng - Личные события](https://github.com/Power0-1972/SkyengLS.git)
 
-[SQL Querise](https://github.com/Power0-1972/SQL-Querise.git)
+[SQL Querise](https://github.com/Power0-1972/SQL-Querise.git) - в процессе наполнения
 
-[Postman-Collection](https://github.com/Power0-1972/Postman-Collection.git)
+[Postman-Collection](https://github.com/Power0-1972/Postman-Collection.git) - в процессе наполнения
 
-[Bug reports](https://github.com/Power0-1972/Bug-Reports.git)
+[Bug reports](https://github.com/Power0-1972/Bug-Reports.git) - в процессе наполнения
 
 []()
 
