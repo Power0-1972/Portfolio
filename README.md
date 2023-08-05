@@ -1,9 +1,9 @@
 # Portfolio
-# Портфолио: инженер по тестированию
-## Обо мне
+## Портфолио: инженер по тестированию
+### Обо мне
 Привет! Меня зовут Константин, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики на курсах Skypro, где я получил хорошие теоретические знания. Нацелен на покорение новых вершин в IT и дальнейшее расширение и углубление своих знаний.
-## Навыки и технологии
+### Навыки и технологии
 ``Fiddler``,
 ``Android Studio``, ``xCode``, ``Charles``, ``Git``.
 <a>
@@ -18,18 +18,20 @@
     <img src="https://camo.githubusercontent.com/ad8fbb1a43e779db0c73365c26a86f4cdfa5cc01ccf443d1ac2847199fa369f9/68747470733a2f2f737461746963302e736d617274626561722e636f2f736d617274626561726272616e642f6d656469612f696d616765732f686f6d652f736f617075692d69636f6e2e737667" title="SoapUI" alt="SoapUI" width="40" height="40" />
   </a>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white),
+<a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
+  </a>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white),
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white),
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
-## Получены сертификаты:
-### Stepik
+### Получены сертификаты:
+#### Stepik
 - [Jira](https://stepik.org/cert/2004407) - с отличием
 - [Postman](https://stepik.org/cert/2099303) - с отличием
 
-## Портфолио (тестовая документация).
+### Портфолио (тестовая документация).
 [Проект Skyeng - Личные события](https://github.com/Power0-1972/SkyengLS.git)
 
 [SQL Querise](https://github.com/Power0-1972/SQL-Querise.git) - в процессе наполнения
@@ -38,12 +40,11 @@
 
 [Bug reports](https://github.com/Power0-1972/Bug-Reports.git) - в процессе наполнения
 
-[]()
+[Checklists](https://github.com/Power0-1972/Checklists.git) - в процессе наполнения
 
-[]()
-
-##
-
+[Test Suites and Test Cases](https://github.com/Power0-1972/Test-Suites-and-Test-Cases.git) - в процессе наполнения
+___
 
 Контактная информация
-Email: anconz@gmail.com
+
+@: anconz@gmail.com
