@@ -4,8 +4,7 @@
 Привет! Меня зовут Константин, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики на курсах Skypro, где я получил хорошие теоретические знания. Нацелен на покорение новых вершин в IT и дальнейшее расширение и углубление своих знаний.
 ### Навыки и технологии
-``Fiddler``,
-``Android Studio``, ``xCode``, ``Charles``, ``Git``.
+``Fiddler``.
 <a>
     <img src="https://camo.githubusercontent.com/e93660f5d9f2fe291238283cbdf9bf06af1330a9538bda9103e26a8b1c0b809d/68747470733a2f2f6c756e61312e636f2f6562303138372e706e67" title="QASE" alt="QASE" width="40" height="40" />
   </a>
@@ -22,6 +21,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />
   </a>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white),
+<a>
+    <img src="https://camo.githubusercontent.com/ade711d0379bc16fca3b7f2832a57cfed9df1a0281eb40bc640bfca825dc9517/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f636861726c65735f70726f78795f6d61636f735f6269677375725f69636f6e5f3139303330322e706e67" title="Charles Proxy" alt="Charles Proxy" width="40" height="40" />
+  </a>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white),
 
 
