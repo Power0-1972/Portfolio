@@ -9,9 +9,8 @@
 
 ## Получены сертификаты:
 ### Stepik
-[Jira](https://stepik.org/cert/2004407) - с отличием
-
-[Postman](https://stepik.org/cert/2099303) - с отличием
+- [Jira](https://stepik.org/cert/2004407) - с отличием
+- [Postman](https://stepik.org/cert/2099303) - с отличием
 
 ## Портфолио (тестовая документация).
 [Проект Skyeng - Личные события](https://github.com/Power0-1972/SkyengLS.git)
