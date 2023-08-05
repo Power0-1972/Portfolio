@@ -12,7 +12,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white),
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white),
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![image](https://github.com/Power0-1972/Portfolio/assets/141258806/17ee1bce-9ae1-420a-ae01-c3969253ff47)
+
 
 
 ## Получены сертификаты:
